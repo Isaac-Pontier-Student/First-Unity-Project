@@ -229,7 +229,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 66d17abb070d40e46b32682d944237c4, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 764ed26cb702ba34bab20b0fbaae5601, type: 2}
+      objectReference: {fileID: 2100000, guid: 0889c57226d82214b82d6b069ed0bd51, type: 2}
     - target: {fileID: 919132149155446097, guid: 66d17abb070d40e46b32682d944237c4, type: 3}
       propertyPath: m_Name
       value: Lamp_Post
@@ -549,7 +549,7 @@ PrefabInstance:
     - target: {fileID: -5833184199735111747, guid: 35ee416fb2162c04a915905948c6d475, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 8799041b6b9269e45b8fd6c36e958c92, type: 2}
+      objectReference: {fileID: 2100000, guid: 0889c57226d82214b82d6b069ed0bd51, type: 2}
     - target: {fileID: -3890224860586978269, guid: 35ee416fb2162c04a915905948c6d475, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -719,7 +719,7 @@ PrefabInstance:
     - target: {fileID: -5833184199735111747, guid: 35ee416fb2162c04a915905948c6d475, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 764ed26cb702ba34bab20b0fbaae5601, type: 2}
+      objectReference: {fileID: 2100000, guid: 0889c57226d82214b82d6b069ed0bd51, type: 2}
     - target: {fileID: -3890224860586978269, guid: 35ee416fb2162c04a915905948c6d475, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -879,7 +879,7 @@ PrefabInstance:
     - target: {fileID: -5833184199735111747, guid: 35ee416fb2162c04a915905948c6d475, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 8799041b6b9269e45b8fd6c36e958c92, type: 2}
+      objectReference: {fileID: 2100000, guid: 0889c57226d82214b82d6b069ed0bd51, type: 2}
     - target: {fileID: -3890224860586978269, guid: 35ee416fb2162c04a915905948c6d475, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -1104,7 +1104,7 @@ PrefabInstance:
     - target: {fileID: -5833184199735111747, guid: 35ee416fb2162c04a915905948c6d475, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 8799041b6b9269e45b8fd6c36e958c92, type: 2}
+      objectReference: {fileID: 2100000, guid: 0889c57226d82214b82d6b069ed0bd51, type: 2}
     - target: {fileID: -3890224860586978269, guid: 35ee416fb2162c04a915905948c6d475, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
@@ -1182,7 +1182,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 66d17abb070d40e46b32682d944237c4, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 764ed26cb702ba34bab20b0fbaae5601, type: 2}
+      objectReference: {fileID: 2100000, guid: 0889c57226d82214b82d6b069ed0bd51, type: 2}
     - target: {fileID: 919132149155446097, guid: 66d17abb070d40e46b32682d944237c4, type: 3}
       propertyPath: m_Name
       value: Lamp_Post (2)
@@ -1256,7 +1256,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 66d17abb070d40e46b32682d944237c4, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 764ed26cb702ba34bab20b0fbaae5601, type: 2}
+      objectReference: {fileID: 2100000, guid: 0889c57226d82214b82d6b069ed0bd51, type: 2}
     - target: {fileID: 919132149155446097, guid: 66d17abb070d40e46b32682d944237c4, type: 3}
       propertyPath: m_Name
       value: Lamp_Post (3)
@@ -1404,7 +1404,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 66d17abb070d40e46b32682d944237c4, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 764ed26cb702ba34bab20b0fbaae5601, type: 2}
+      objectReference: {fileID: 2100000, guid: 0889c57226d82214b82d6b069ed0bd51, type: 2}
     - target: {fileID: 919132149155446097, guid: 66d17abb070d40e46b32682d944237c4, type: 3}
       propertyPath: m_Name
       value: Lamp_Post (1)
