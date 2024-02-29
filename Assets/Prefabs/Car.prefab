@@ -178,6 +178,7 @@ GameObject:
   - component: {fileID: 8870483621038053890}
   - component: {fileID: 4877499074835365256}
   - component: {fileID: 5038281951180237287}
+  - component: {fileID: 5807151825673371670}
   m_Layer: 0
   m_Name: CarBody
   m_TagString: Untagged
@@ -264,6 +265,20 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   amplitude: 0.04
   frequency: 30
+--- !u!114 &5807151825673371670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3789427665882116189}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 256874734b7d60741879629095d71d1d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxAngle: 15
+  carBehaviour: {fileID: 5556956464291561935}
 --- !u!1 &4270221507029591275
 GameObject:
   m_ObjectHideFlags: 0
@@ -275,7 +290,6 @@ GameObject:
   - component: {fileID: 3829320161378994405}
   - component: {fileID: 5556956464291561935}
   - component: {fileID: 8666231127291689582}
-  - component: {fileID: 3621058521487148840}
   m_Layer: 0
   m_Name: Car
   m_TagString: Untagged
@@ -341,20 +355,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.6573674, y: 0.81966704, z: 1.4119608}
   m_Center: {x: 0.005409986, y: 0.12623307, z: -0.00040102005}
---- !u!114 &3621058521487148840
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4270221507029591275}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 256874734b7d60741879629095d71d1d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  maxAngle: 15
-  carBehaviour: {fileID: 5556956464291561935}
 --- !u!1 &5163676340978728464
 GameObject:
   m_ObjectHideFlags: 0
